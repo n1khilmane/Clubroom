@@ -1,0 +1,10 @@
+{
+  "resourceName": "Rooms",
+  "tableName": "Rooms",
+  "partitionKey": {
+    "fieldName": "roomId",
+    "fieldType": "string"
+  },
+  "gsi": [],
+  "triggerFunctions": []
+}

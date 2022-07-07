@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-clubroom-dev-172518-authRole",
+      "UnauthRoleArn": "arn:aws:iam::510257897386:role/amplify-clubroom-dev-172518-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::510257897386:role/amplify-clubroom-dev-172518-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-clubroom-dev-172518-deployment",
+      "UnauthRoleName": "amplify-clubroom-dev-172518-unauthRole",
+      "StackName": "amplify-clubroom-dev-172518",
+      "StackId": "arn:aws:cloudformation:us-east-1:510257897386:stack/amplify-clubroom-dev-172518/30c9d8e0-d303-11ec-803c-0ad514646ef3",
+      "AmplifyAppId": "d1chnm0r05ap1y"
+    },
+    "categories": {
+      "function": {
+        "roomHandler": {
+          "deploymentBucketName": "amplify-clubroom-dev-172518-deployment",
+          "s3Key": "amplify-builds/roomHandler-303438514f54382b7543-build.zip"
+        }
+      }
+    }
+  }
+}

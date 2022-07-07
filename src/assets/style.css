@@ -1,0 +1,22 @@
+.parent-container {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.login-form {
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+    margin-top: 3rem;
+}
+.custom-input {
+    text-indent: 5px;
+    font-weight: bold;
+    color: #666;
+}
+.custom-input::placeholder {
+    font-weight: bold;
+}
