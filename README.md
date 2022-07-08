@@ -30,3 +30,7 @@ Human beings are a social species, and communication can be vital in achieving a
 ## Prototype
 
 [figma.com/proto/jXwknZSvitMu0KW0eO4ql6/Clubroom?node-id=2%3A83&starting-point-node-id=2%3A83&scaling=scale-down](https://www.figma.com/proto/jXwknZSvitMu0KW0eO4ql6/Clubroom?node-id=2%3A83&starting-point-node-id=2%3A83&scaling=scale-down)
+
+## Architecture Diagram
+
+![diagram](https://github.com/n1khilmane/Clubroom/blob/main/images/arch.png)
