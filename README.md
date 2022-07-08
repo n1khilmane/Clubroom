@@ -34,3 +34,11 @@ Human beings are a social species, and communication can be vital in achieving a
 ## Architecture Diagram
 
 ![diagram](https://github.com/n1khilmane/Clubroom/blob/main/images/arch.png)
+
+## Output
+
+![diagram](https://github.com/n1khilmane/Clubroom/blob/main/images/1.png)
+
+![diagram](https://github.com/n1khilmane/Clubroom/blob/main/images/2.png)
+
+![diagram](https://github.com/n1khilmane/Clubroom/blob/main/images/3.png)
